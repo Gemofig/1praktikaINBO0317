@@ -1,9 +1,11 @@
 # Петрищев Никита ИНБО-03-17
 # 1praktikaINBO0317 (a)
 
+
 #include "stdafx.h" 
 #include "iostream" 
 #include <string>
+
 using namespace std;
 int main()
 {
@@ -19,10 +21,12 @@ int main()
 
 # 1praktikaINBO0317 (b)
 
+
 #include "stdafx.h" 
 #include "iostream" 
 #include <string>
 using namespace std;
+
 
 int main()
 {
