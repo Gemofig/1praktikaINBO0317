@@ -7,6 +7,7 @@
 using namespace std;
 int main()
 {
+	
 	string x;
 	cout << "Name : ";
 	cin >> x;
@@ -14,7 +15,6 @@ int main()
 	system("pause");
 	return 0;
   } 
-
 # 1praktikaINBO0317 (b)
 
 
@@ -22,9 +22,11 @@ int main()
 #include "iostream" 
 #include <string>
 using namespace std;
+	
 int main()
 {
-		int a, b, S, B;
+               
+	        int a, b, S, B;
 		float a1, b1, S1, B1;
 		setlocale(0, "RUS");
 		cout << "Ваше целое a: ";
