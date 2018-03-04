@@ -1,23 +1,19 @@
 # Петрищев Никита ИНБО-03-17
 # 1praktikaINBO0317 (a)
 
-
 #include "stdafx.h" 
 #include "iostream" 
 #include <string>
-
 using namespace std;
 int main()
 {
-	
 	string x;
 	cout << "Name : ";
 	cin >> x;
 	cout << "Hello " << x <<"." <<endl;
 	system("pause");
 	return 0;
-	
-  }  
+  } 
 
 # 1praktikaINBO0317 (b)
 
@@ -26,11 +22,8 @@ int main()
 #include "iostream" 
 #include <string>
 using namespace std;
-
-
 int main()
 {
-
 		int a, b, S, B;
 		float a1, b1, S1, B1;
 		setlocale(0, "RUS");
@@ -53,7 +46,7 @@ int main()
 		cout << "Вычитание плавующих чисел : " << B1 << endl;
 		system("pause");
 		return 0;
-	}
+}
 
 
 #Сделать форк данного репозитория у себя в аккаукнте.
